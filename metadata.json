@@ -1,0 +1,27 @@
+         "trait_type":"Sutability",
+         "value":"All"
+      },
+      {
+         "trait_type":"Avatar-Fashion",
+         "value":"Shoe"
+      },
+      {
+         "trait_type":"NFT-Type",
+         "value":"ctNFT"
+      },
+      {
+         "trait_type":"Rarity",
+         "value":"Common"
+      }
+   ],
+   "collectionName":"",
+   "description":"Updated from Felix",
+   "compiler":"NFT Generator for Figma, https://www.figma.com/community/plugin/1052280914006102970",
+   "properties":{
+      "files":[
+         {
+            "uri":"https://nftstorage.link/ipfs/bafybeig2fl4655bajhbnc4vi2s4xe2wpnrsir62bayjr3tlv7qwwcwzb4e/1.png"
+         }
+      ]
+   }
+}
